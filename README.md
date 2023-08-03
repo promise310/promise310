@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  -->
 <p align="center">Hi! I'm a Seoyoung Kong👋</p>
 <p align="center">I started my IT journey in 2020.</p>
-<p align="center">I am a developer that continues to grow in the future. 🔥</p>
+<p align="center">I constantly seek new challenges and opportunities to grow my skill set. 🔥</p>
 <p align="center">Please look forward to my growth!</p>
 
 <br>
