@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 <h3 align="center"><b>✨About me✨</b></h3>
 <!-- <p align="center"><a href="자신의 블로그 주소" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
  -->
-<p align="center">Hi! I'm a Seoyoung Kong👋</p>
-<p align="center">I started my IT journey in 2020.</p>
-<p align="center">I constantly seek new challenges and opportunities to grow my skill set. 🔥</p>
-<p align="center">Please look forward to my growth!</p>
+<p align="center">Hi! I'm Seoyoung Kong👋</p>
+<p align="center">I started my IT journey in 2020 </p>
+<p align="center">I constantly seek new challenges and opportunities to grow my skill set 🔥</p>
 
 <br>
 
